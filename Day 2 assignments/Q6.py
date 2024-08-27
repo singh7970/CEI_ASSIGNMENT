@@ -26,7 +26,7 @@ for i in range(100):
         print(f"Record {i+1} collected")
         time.sleep(1)
     else:
-        print(f"Failed to retrieve data. Status code: {response.status_code}")
+        print(f"Faid to retrieve data. Status code: {response.status_code}")
 
 
 df.to_csv("iss_location_data.csv", index=False)
