@@ -1,0 +1,9 @@
+#full XPaths
+Movie Name : /html/body/section/div/section/h1/span
+Screenshot Link : src in a[i] of this XPath /html/body/section/div/section/main/div/h3/a[i] i=1,2,3...
+SourceLink: Copy from NameLink.csv
+Download Link take href value from a tags: /html/body/section/div/section/main/div/div[4]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/h3/a,/html/body/section/div/section/main/div/div[4]/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div/h4/a,
+/html/body/section/div/section/main/div/div[4]/h3[i]/a for i = 1,2,3...
+Ratings take the value in between a tags: /html/body/section/div/section/main/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div[1]/span/a
+Trailer Link take href value of a tags:/html/body/div/div/div[3]/div[2]/div/a
+Ratings take value inside span tags:/html/body/section/div/section/main/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div/div/div/div[2]/div/div[1]/div[2]/span
